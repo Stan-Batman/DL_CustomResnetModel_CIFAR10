@@ -1,6 +1,8 @@
 # DL_CustomResnetModel_CIFAR10
 
-#Model: Modified Resnet #Dataset: CIFAR-10
+#Model: Modified Resnet 
+
+#Dataset: CIFAR-10
 
 In Deep learning, data augmentation techniques and transforms are essential to improve the quality and quantity of data used to train models. In the case of the CIFAR10 dataset, which consists of 60,000 color images of 32x32 pixels, these techniques are particularly important.
 
@@ -25,7 +27,14 @@ AdaDelta Performed the best out of these.
 
 LR: 0.01 
 ||||||||||||||||||||||||||||||||
+
+
 #|| Training Accuracy: 99.992% ||
+
+
 ||||||||||||||||||||||||||||||||
+
 #|| Testing Accuracy: 91.47%   ||
+
+
 ||||||||||||||||||||||||||||||||
