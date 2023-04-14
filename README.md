@@ -26,15 +26,17 @@ AdaDelta Performed the best out of these.
 
 
 LR: 0.01 
-||||||||||||||||||||||||||||||||
-
-
-#|| Training Accuracy: 99.992% ||
 
 
 ||||||||||||||||||||||||||||||||
 
-#|| Testing Accuracy: 91.47%   ||
+
+|| **Training Accuracy: 99.992% **||
+
+
+||||||||||||||||||||||||||||||||
+
+|| **Testing Accuracy: 91.47% **  ||
 
 
 ||||||||||||||||||||||||||||||||
