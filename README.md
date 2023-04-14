@@ -18,9 +18,12 @@ Overall, applying data augmentation techniques and transforms to the CIFAR10 dat
 
 We have trained our Custom Resnet Model on CiFAR-10 Dataset and have tried 3 different optimisers:
 
-Adam
-Adagrad
-AdaDelta
+1. Adam
+
+2. Adagrad
+
+3. daDelta
+
 AdaDelta Performed the best out of these.
 
 
