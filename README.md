@@ -1,25 +1,20 @@
 # DL_CustomResnetModel_CIFAR10
 
-#Model: Modified Resnet 
+Model: Modified Resnet 
 
-#Dataset: CIFAR-10
+Dataset: CIFAR-10
 
 
-PreRequisistes
+# PreRequisistes
 
 
 The following python packages are required:
 
 torch
-
 torchsummary
-
 numpy
-
 tqdm
-
 multiprocessing
-
 
 Install them manually or use this in your python notebook: ! pip install torch torchsummary numpy tqdm multiprocessing
 
@@ -54,12 +49,12 @@ LR: 0.01
 ____________________________
 
 
-|| Training Accuracy: 99.992% ||
+# || Training Accuracy: 99.992% ||
 
 
 ____________________________
 
-|| Testing Accuracy: 91.47%   ||
+# || Testing Accuracy: 91.47%   ||
 
 ____________________________
 
