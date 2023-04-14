@@ -4,6 +4,26 @@
 
 #Dataset: CIFAR-10
 
+
+PreRequisistes
+
+
+The following python packages are required:
+
+torch
+
+torchsummary
+
+numpy
+
+tqdm
+
+multiprocessing
+
+
+Install them manually or use this in your python notebook: ! pip install torch torchsummary numpy tqdm multiprocessing
+
+
 In Deep learning, data augmentation techniques and transforms are essential to improve the quality and quantity of data used to train models. In the case of the CIFAR10 dataset, which consists of 60,000 color images of 32x32 pixels, these techniques are particularly important.
 
 To augment the data, we use two techniques - Random Crop and Random Horizontal Flip. Random Crop selects a random subset of the original image, while Random Horizontal Flip flips an image horizontally with a certain probability. Both of these techniques help to introduce variations in the dataset, making the model more capable of recognizing similar images with different compositions.
@@ -42,3 +62,7 @@ ____________________________
 || Testing Accuracy: 91.47%   ||
 
 ____________________________
+
+
+Files List:
+
