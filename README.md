@@ -46,10 +46,11 @@ LR: 0.01
 
 ____________________________
 
-# Overview
+## Files Overview
 
 Visualization_final.ipynb: Shows graphical comparison between the different optimizer, Adam, AdaGrad, AdaDelta; with multiple learning rates.   
 
+Visualization_final.pdf: PDF of the Visualization_final.ipynb notebook with executed cells
 
 Adam:  
   - Adam_LR-0.01.ipynb: Shows train and test performance of the model with Adam optimizer and learning rate 0.01  
