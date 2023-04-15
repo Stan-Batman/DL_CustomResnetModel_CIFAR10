@@ -11,12 +11,16 @@ Dataset: CIFAR-10
 The following python packages are required:
 
 1. torch
-2. torchsummary
-3. numpy
-4. tqdm
-5. multiprocessing
+2. torchvision
+3. torchsummary
+4. numpy
+5. matplotlib.pyplot
+6. urllib3
+7. tqdm
+8. multiprocessing
+9. onnx
 
-Install them manually or use this in your python notebook: ! pip install torch torchsummary numpy tqdm multiprocessing
+Install them manually or use this in your python notebook: !pip install missingPackageName
 
 
 In Deep learning, data augmentation techniques and transforms are essential to improve the quality and quantity of data used to train models. In the case of the CIFAR10 dataset, which consists of 60,000 color images of 32x32 pixels, these techniques are particularly important.
