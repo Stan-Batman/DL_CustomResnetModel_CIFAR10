@@ -82,12 +82,12 @@ miniproject_adaDelta_lr_0pt01_final-bestAccuracy.ipynb: Shows train and test per
 ____________________________
 
 
-|| Training Accuracy: 99.992% ||
+## || Training Accuracy: 99.992% ||
 
 
 ____________________________
 
-|| Testing Accuracy: 91.47%   ||
+## || Testing Accuracy: 91.47%   ||
 
 ____________________________
 
