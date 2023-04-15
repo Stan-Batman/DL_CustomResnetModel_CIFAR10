@@ -50,6 +50,7 @@ ____________________________
 
 Visualization_final.ipynb: Shows graphical comparison between the different optimizer, Adam, AdaGrad, AdaDelta; with multiple learning rates.   
 
+
 Adam:  
   - Adam_LR-0.01.ipynb: Shows train and test performance of the model with Adam optimizer and learning rate 0.01  
   - Adam_LR-0.001.ipynb: Shows train and test performance of the model with Adam optimizer and learning rate 0.001  
@@ -61,7 +62,15 @@ AdaGrad:
 AdaDelta:  
   - miniproject_adaDelta_lr_0pt1_aas10120_final.ipynb: Shows train and test performance of the model with AdaDelta optimizer and learning rate 0.1  
   - miniproject_adaDelta_lr_0pt01_aas10120_final.ipynb: Shows train and test performance of the model with AdaDelta optimizer and learning rate 0.01  
-  - miniproject_adaDelta_lr_0pt001_aas10120_final (1).ipynb.ipynb: Shows train and test performance of the model with AdaDelta optimizer and learning rate 0.001  
+  - miniproject_adaDelta_lr_0pt001_aas10120_final (1).ipynb.ipynb: Shows train and test performance of the model with AdaDelta optimizer and learning rate 0.001 
+  
+PDF Subfolder: Contains PDF of all uploaded Jupyter Notebooks
+
+finalModelArchitecture.jpg: Final Model Architecture (using Netron API)
+
+final_model1.onnx: onnx file of the model architecture
+
+miniProjectReport.pdf: AAAI format Project Report
 
 ____________________________
 
@@ -76,5 +85,4 @@ ____________________________
 ____________________________
 
 
-Files List:
 
