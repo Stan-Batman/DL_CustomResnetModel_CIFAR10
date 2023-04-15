@@ -73,6 +73,8 @@ final_model1.onnx: onnx file of the model architecture
 
 miniProjectReport.pdf: AAAI format Project Report
 
+miniproject_adaDelta_lr_0pt01_final-bestAccuracy.ipynb: Shows train and test performance of the model with AdaDelta optimizer and learning rate 0.01. This had the highest testing accuracy as well.
+
 ____________________________
 
 
